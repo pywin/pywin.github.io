@@ -28,3 +28,6 @@
 @media(max-width:1100px) and (min-width:761px){.university-wordmark{width:220px}}
 @media(max-width:760px){.university-wordmark{width:200px}.header-inner{min-height:108px}}
 @media(max-width:390px){.university-wordmark{width:170px}}
+
+/* Consistent, justified biography text. */
+.bio-paragraph{color:#222;font-weight:400;font-style:normal;text-align:justify;text-align-last:left;text-justify:inter-word;-webkit-hyphens:auto;hyphens:auto}
